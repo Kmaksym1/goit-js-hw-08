@@ -20,7 +20,7 @@ galleryEL.insertAdjacentHTML('beforeend', markup)
 const gallery = new SimpleLightbox('.gallery a', {
         captionsData: 'alt',
         captionDelay: 250
-    });
+    }); 
 
 
 
